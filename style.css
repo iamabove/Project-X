@@ -37,7 +37,7 @@ nav div {
 }
 
 h1 {
-  color: hsl(0, 0%, 98%);
+  color: red;
   line-height: 1;
   font-size: 11vw;
   font-family: "Karla", sans-serif;
